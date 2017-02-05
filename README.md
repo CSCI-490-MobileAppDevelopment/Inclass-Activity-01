@@ -5,7 +5,7 @@ Inclass Activity covering the second half of Chapter 7, Building Blocks
 This in-class activity will have you playing around with a few of the Building block items covered in Chapter 7 of the text. Create an Andoid project with API Level 24 (or higher) named Inclass-Activity-01-\<LastName\>. Create a README.md file and screenshots directory. Commit/push to GitHub. 
 
 1. Create a branch '01-Calendar' (In Android Studio: VCS -> Git -> branches -> +New Branch).
-2. Create a DatePicker object as seen on pgs 166-168 and have the choice of date and time displayed on the bottom of the scren.
+2. Create a DatePicker object as seen on pgs 166-168 and have the choice of date and time displayed on the bottom of the screen.
 3. Take a screenshot and place into screenshots directory.
 4. Commit and push branch '01-Calendar'
 5. Create a branch '02-ProgressBar'
